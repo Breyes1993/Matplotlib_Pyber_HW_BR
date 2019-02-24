@@ -1,0 +1,5 @@
+Three Observable Trends
+
+1) There are more amount of rides in Urban cities than the other types of cities.
+2) There are more drivers in Urban cities than the other types of cities.
+3) Rural cities Pyber rides are more expensive than the other types of cities.
